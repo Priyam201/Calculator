@@ -1,0 +1,2 @@
+# Calculator
+Created a simple calculator using HTML, CSS, and JavaScript. Supports basic arithmetic operations with a clean, responsive UI. Focused on DOM manipulation, user input handling, and interactive design for smooth functionality across devices.
